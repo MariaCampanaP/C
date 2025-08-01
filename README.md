@@ -28,7 +28,7 @@ Este repositório reúne implementações e conceitos fundamentais de **Lógica 
 ## ☕︎ Como Usar
 
 1. Clone o repositório para o seu computador:
-
+   
    ```bash
    git clone https://github.com/MariaCampanaP/C.git
    ```
