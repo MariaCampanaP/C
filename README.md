@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFFF00&reversal=false"/>
 
 # ☕︎ C
 Repositório contento exercícios e projetos em **C** - códigos feitos para treinar lógica de programação e algoritmos usando CodeBlocks
@@ -32,5 +32,5 @@ Este repositório reúne implementações e conceitos fundamentais de **Lógica 
    ```bash
    git clone https://github.com/MariaCampanaP/C.git
    ```
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007F73&reversal=false&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFFF00&reversal=false&section=footer"/>
 
